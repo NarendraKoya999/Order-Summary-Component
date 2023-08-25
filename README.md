@@ -1,12 +1,7 @@
-# Frontend Mentor - Order summary Component
+# Order summary Component
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
-# Order Summary Component
-
-A simple HTML5 and CSS3 project to display an order summary card for a fictional service.
-
-![Order Summary Card](./images/illustration-hero.svg)
 
 ## Description
 
@@ -14,7 +9,7 @@ This project showcases an order summary card that promotes a service for accessi
 
 ## Preview
 
-[Live Project Link](./preview.png) <!-- Replace with an actual preview screenshot if available -->
+[Live Project Link](https://narendrakoya999.github.io/Order-Summary-Component/) <!-- Replace with an actual preview screenshot if available -->
 
 ## Technologies Used
 
@@ -23,7 +18,7 @@ This project showcases an order summary card that promotes a service for accessi
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/your-username/order-summary-component.git`
+1. Clone this repository: `git clone https://github.com/your-username/Order-Summary-Component.git`
 2. Navigate to the project directory: `cd order-summary-card`
 3. Open the `index.html` file in a web browser.
 
